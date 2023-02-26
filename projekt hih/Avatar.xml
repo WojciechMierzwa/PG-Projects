@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="avatar.xslt"?>
+<swiat>
+  <author>
+    <name>Wojciech</name>
+    <surname>Mierzwa</surname>
+    <indeks>176824</indeks>
+    <kierunek>ACIR</kierunek>
+    <group>3</group>
+  </author>
+  <ksiega czesc="pierwsza">
+    <media>
+      <image source="img/woda.png"></image>
+    </media>
+    <status active="yes">
+      <grupa>
+        <team kind="Avatar" side="hero">
+          <postac>
+            <imie>Aang</imie>
+            <magia>Powietrze</magia>
+            <bron>Lotnia</bron>
+          </postac>
+          <postac>
+            <imie>Katara</imie>
+            <magia>Woda</magia>
+            <bron>brak</bron>
+          </postac>
+          <postac>
+            <imie>Sokka</imie>
+            <magia>brak</magia>
+            <bron>Bumerang</bron>
+          </postac>
+        </team>
+        <team kind="Azula" side="villain">
+          <postac>
+            <imie>Azula</imie>
+            <magia>Ogień</magia>
+            <bron>brak</bron>
+          </postac>
+        </team>
+        <team kind="Zuko" side="villain">
+          <postac>
+            <imie>Zuko</imie>
+            <magia>Ogień</magia>
+            <bron>brak</bron>
+          </postac>
+          <postac>
+            <imie>Iroh</imie>
+            <magia>Ogień</magia>
+            <bron>brak</bron>
+          </postac>
+        </team>
+      </grupa>
+    </status>
+    <!--<status active="no">
+      <grupa>
+        <whiteLotus side="hero">
+            <bender magia="ogien">Uncle Iroh</bender>
+            <bender magia="ziemia">Bumi</bender>
+            <bender magia="ogien">Jeong Jeong</bender>
+            <bender magia="woda">Pakku</bender>
+            <nonbender bron="miecz">Piandao</nonbender>
+          </whiteLotus>
+      </grupa>
+    </status>-->
+  </ksiega>
+  <!--<ksiega czesc="druga">
+      <media>
+        <image source="img/ziemia.png"></image>
+      </media>
+      <status>
+        <grupa>
+          <teamAvatar side="hero">
+            <bender magia="powietrze">Aang</bender>
+            <bender magia="woda">Katara</bender>
+            <bender magia="ziemia">Toph</bender>
+            <nonbender bron="boomerang">Sokka</nonbender>
+          </teamAvatar>
+          <teamAzula side="villain">
+            <bender magia="ogien">Azula</bender>
+            <nonbender bron="sztylety">Mai</nonbender>
+            <nonbender bron="brak">Ty Lee</nonbender>
+          </teamAzula>
+          <teamZuko side="neutral">
+            <bender magia="ziemia">Zuko</bender>
+            <bender magia="ziemia">Uncle Iroh</bender>
+          </teamZuko>
+        </grupa>
+      </status>
+      <status active="no">
+        <grupa>
+          <whiteLotus side="hero">
+            <bender magia="ogien">Uncle Iroh</bender>
+            <bender magia="ziemia">Bumi</bender>
+            <bender magia="ogien">Jeong Jeong</bender>
+            <bender magia="woda">Pakku</bender>
+            <nonbender bron="miecz">Piandao</nonbender>
+          </whiteLotus>
+        </grupa>
+      </status>
+    </ksiega>
+  <ksiega czesc="trzecia">
+      <media>
+        <image source="img/ogien.png"></image>
+      </media>
+      <status active="yes">
+        <grupa>
+          <team kind="Avatar" side="hero">
+            <bender magia="powietrze">Aang</bender>
+            <bender magia="woda">Katara</bender>
+            <bender magia="ziemia">Toph</bender>
+            <bender magia="ogien">Zuko</bender>
+            <nonbender bron="miecz">Sokka</nonbender>
+            <nonbender bron="wachlarz">Suki</nonbender>
+          </team>
+          <team kind="Azula" side="villain">
+            <bender magia="ogien">Azula</bender>
+          </team>
+          <team kind="whiteLotus" side="hero">
+            <bender magia="ogien">Uncle Iroh</bender>
+            <bender magia="ziemia">Bumi</bender>
+            <bender magia="ogien">Jeong Jeong</bender>
+            <bender magia="woda">Pakku</bender>
+            <nonbender bron="miecz">Piandao</nonbender>
+          </team>
+        </grupa>
+      </status>
+      <status active="no">
+        <grupa>
+          <teamZuko side="hero">
+            <bender magia="ziemia">Zuko</bender>
+            <bender magia="ziemia">Uncle Iroh</bender>
+          </teamZuko>
+        </grupa>
+      </status>
+    </ksiega>-->
+    <links>
+			<link source="https://www.youtube.com/channel/UCwCtYw8My30bMKmWqURwXuQ">Avatar Critic</link>
+			<link source="https://awatar.fandom.com/wiki/Awatar_Wiki">Awatar Fandom</link>
+			<link source="https://avatar.fandom.com/wiki/Avatar_Wiki">Avatar Fandom en</link>
+		</links>
+</swiat>

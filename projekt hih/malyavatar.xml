@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="malyavatar.xslt"?>
+<projekt>
+<sezon czesc="woda">
+  <nazwa>Księga Wody</nazwa>
+  <ilosc>20</ilosc>
+  <rok>2005</rok>
+</sezon>
+  <sezon czesc="ziemia">
+  <nazwa>Księga Ziemi</nazwa>
+  <ilosc>20</ilosc>
+  <rok>2006</rok>
+</sezon>
+<sezon czesc="ogien">
+  <nazwa>Księga Ognia</nazwa>
+  <ilosc>21</ilosc>
+  <rok>2007</rok>
+</sezon>
+</projekt>

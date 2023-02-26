@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="AWATAR.xslt"?>
+
+<projekt>
+  
+  <links>
+    <link source="Avatar HTML.html">Strona Główna</link>
+    <link source="swiat.html">Świat</link>
+    <link source="postacie.html">Postacie</link>
+    <link source="zdjecia.html">Zdjęcia</link>
+  </links>
+  
+  <ksiega czesc="Woda">
+    <side type="hero">
+      <team leader="Awatar">
+        <postac>
+          <imie>Aang</imie>
+          <magia>Powietrze</magia>
+          <bron>Lotnia</bron>
+        </postac>
+        <postac>
+          <imie>Katara</imie>
+          <magia>Woda</magia>
+          <bron>brak</bron>
+        </postac>
+        <postac>
+          <imie>Sokka</imie>
+          <magia>brak</magia>
+          <bron>Bumerang</bron>
+        </postac>
+      </team>
+    </side>
+    <side type="villain">
+      <team leader="Azula">
+        <postac>
+          <imie>Azula</imie>
+          <magia>Ogień</magia>
+          <bron>brak</bron>
+        </postac>
+      </team>
+      <team leader="Zuko">
+        <postac>
+          <imie>Zuko</imie>
+          <magia>Ogień</magia>
+          <bron>brak</bron>
+        </postac>
+        <postac>
+          <imie>Iroh</imie>
+          <magia>Ogień</magia>
+          <bron>brak</bron>
+        </postac>
+      </team>
+  </side>
+  </ksiega>
+  <ksiega czesc="Ziemia">
+    <side type="hero">
+      <team leader="Awatar">
+        <postac>
+          <imie>Aang</imie>
+          <magia>Powietrze</magia>
+          <bron>Lotnia</bron>
+        </postac>
+        <postac>
+          <imie>Katara</imie>
+          <magia>Woda</magia>
+          <bron>brak</bron>
+        </postac>
+        <postac>
+          <imie>Sokka</imie>
+          <magia>brak</magia>
+          <bron>Bumerang</bron>
+        </postac>
+        <postac>
+          <imie>Toph</imie>
+          <magia>Ziemia</magia>
+          <bron>brak</bron>
+        </postac>
+      </team>
+    </side>
+    <side type="neutral">
+      <team leader="Zuko">
+        <postac>
+          <imie>Zuko</imie>
+          <magia>Ogień</magia>
+          <bron>brak</bron>
+        </postac>
+        <postac>
+          <imie>Iroh</imie>
+          <magia>Ogień</magia>
+          <bron>Miecze</bron>
+        </postac>
+      </team>
+    </side>
+    <side type="villain">
+      <team leader="Azula">
+        <postac>
+          <imie>Azula</imie>
+          <magia>Ogień</magia>
+          <bron>brak</bron>
+        </postac>
+        <postac>
+          <imie>Mai</imie>
+          <magia>brak</magia>
+          <bron>Sztylety</bron>
+        </postac>
+        <postac>
+          <imie>Ty Lee</imie>
+          <magia>brak</magia>
+          <bron>brak</bron>
+        </postac>
+      </team>
+    </side>
+   </ksiega>
+  <ksiega czesc="Ogień">
+    <side type="hero">
+      <team leader="Awatar">
+        <postac>
+          <imie>Aang</imie>
+          <magia>Powietrze</magia>
+          <bron>Lotnia</bron>
+        </postac>
+        <postac>
+          <imie>Katara</imie>
+          <magia>Woda</magia>
+          <bron>brak</bron>
+        </postac>
+        <postac>
+          <imie>Sokka</imie>
+          <magia>brak</magia>
+          <bron>Bumerang</bron>
+        </postac>
+        <postac>
+          <imie>Toph</imie>
+          <magia>Ziemia</magia>
+          <bron>brak</bron>
+        </postac>
+        <postac>
+          <imie>Suki</imie>
+          <magia>brak</magia>
+          <bron>Wachlarz</bron>
+        </postac>
+        <postac>
+          <imie>Zuko</imie>
+          <magia>Ogień</magia>
+          <bron>brak</bron>
+        </postac>
+      </team>
+      <team leader="Iroh">
+        <postac>
+          <imie>Iroh</imie>
+          <magia>Ogień</magia>
+          <bron>brak</bron>
+        </postac>
+        <postac>
+          <imie>Bumi</imie>
+          <magia>Ziemia</magia>
+          <bron>brak</bron>
+        </postac>
+        <postac>
+          <imie>Jeong Jeong</imie>
+          <magia>Ogień</magia>
+          <bron>brak</bron>
+        </postac>
+        <postac>
+          <imie>Pakku</imie>
+          <magia>Woda</magia>
+          <bron>brak</bron>
+        </postac>
+        <postac>
+          <imie>Piandao</imie>
+          <magia>brak</magia>
+          <bron>Miecz</bron>
+        </postac>
+      </team>
+    </side>
+  </ksiega>
+
+  <ranking>
+      <odcinek rank="2">Zuko Alone </odcinek>
+      <odcinek rank="4">Crossroads of Destiny </odcinek>
+      <odcinek rank="3">The Siege of the North Part 2 </odcinek>
+      <odcinek rank="5">Tales of Ba Sing Se</odcinek>
+      <odcinek rank="1">The Blue Spirit</odcinek>
+    
+  </ranking>
+
+  <sezon czesc="woda">
+    <nazwa>Księga Wody</nazwa>
+    <ilosc>20</ilosc>
+    <rok>2005</rok>
+  </sezon>
+  <sezon czesc="ziemia">
+    <nazwa>Księga Ziemi</nazwa>
+    <ilosc>20</ilosc>
+    <rok>2006</rok>
+  </sezon>
+  <sezon czesc="ogien">
+      <nazwa>Księga Ognia</nazwa>
+      <ilosc>21</ilosc>
+      <rok>2007</rok>
+  </sezon>
+  
+  <media>
+    <image source="obraz1.jpg"></image>
+    <image source="obraz2.jpg"></image>
+    <image source="obraz3.jpg"></image>
+  </media>
+  
+  <autor>
+    <name>Wojciech</name>
+    <surname>Mierzwa</surname>
+    <kierunek>ACIR</kierunek>
+    <grupaDziekanska>3</grupaDziekanska>
+    <index>176824</index>
+  </autor>
+</projekt>
